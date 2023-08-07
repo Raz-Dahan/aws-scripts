@@ -1,3 +1,3 @@
 # aws-scripts
 
-bash scripts using aws-cli
+Bash scripts using aws-cli for cloudshell
